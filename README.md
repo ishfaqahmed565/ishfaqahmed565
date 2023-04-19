@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ishfaqahmed565
 - 👀 I’m interested in front-end development.
-- 🌱 I’m currently learning Laravel
-- 💞️ I’m currently building some projects using laravel to populate my portfolio.
+- 🌱 I’m currently working as a software developer
 - 📫 You can reach me through my e-mail(ahmedishfaq737@gmail.com) or Twitter @ishfaqahmed565
 
 <!---
